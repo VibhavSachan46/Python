@@ -6,7 +6,15 @@
 # print("output is "+a)
 
 
-x = input("Enter 1st number: ")
-y = input("Enter 1st number: ")
-print(int(x) + int(y))
-print(x+y)
+# x = input("Enter 1st number: ")
+# y = input("Enter 1st number: ")
+# print(int(x) + int(y))
+# print(x+y)
+
+# print('He said : "He want to eat apple"')
+
+s =  '''
+hey hello
+iam herre
+kjbegb '''
+print(s)
